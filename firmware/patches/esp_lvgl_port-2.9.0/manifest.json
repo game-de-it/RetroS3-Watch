@@ -1,0 +1,10 @@
+{
+  "include/esp_lvgl_port_disp.h": {
+    "upstream_sha256": "0938ac0f248c03bac10427baebe0c674a90eed90c64769d835d9947fadd73227",
+    "patched_sha256": "958485894985b47110ca1e941e72b425940bfd860d0d8aeb4bf6a70270512ab9"
+  },
+  "src/lvgl9/esp_lvgl_port_disp.c": {
+    "upstream_sha256": "4a1bcfd9088b6216ff33509dfc15c86886426d545012568e2f21f77239c3b0f0",
+    "patched_sha256": "69d68504ea06779fb76282ff1f524ad5439e3bb318a2605eb096dc2b9b969613"
+  }
+}

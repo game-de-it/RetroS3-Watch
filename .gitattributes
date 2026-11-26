@@ -1,0 +1,4 @@
+* text=auto
+*.bin binary
+*.ROM binary
+*.jpg binary
